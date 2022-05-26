@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CopyComplete
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\PC\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.TextToSpeech.resources
